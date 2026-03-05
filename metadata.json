@@ -1,0 +1,5 @@
+{
+  "name": "Handwritten Note Assistant",
+  "description": "A RAG-based assistant that extracts text from handwritten PDFs and answers questions with page references.",
+  "requestFramePermissions": []
+}
